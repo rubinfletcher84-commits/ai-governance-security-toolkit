@@ -34,8 +34,6 @@ AI Governance & Security Toolkit: Built an Excel-based AI GRC and security portf
 
 ## Lessons Learned
 
-## Lessons Learned
-
 Building this toolkit helped me better understand how AI governance, security, audit readiness, and compliance connect in a practical workflow. Instead of only thinking about AI policy at a high level, this project showed how governance needs to be supported by real artifacts such as checklists, impact assessments, evidence trackers, documentation, and review processes.
 
 This project also reinforced the importance of human oversight, evidence collection, risk ownership, and clear documentation when organizations adopt AI systems. A strong AI governance program should not just ask whether AI is being used, but should also ask who owns the system, what data is involved, what risks exist, what controls are in place, and what proof exists to support responsible use.
