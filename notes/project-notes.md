@@ -27,3 +27,7 @@ Status: Initial toolkit workbook completed
 ## Portfolio Notes
 
 This project is part of a larger AI Governance, Risk, Compliance, and Security portfolio. The goal is to show practical ability to translate AI governance concepts into usable business, audit, compliance, and security artifacts.
+
+## Short Project Description
+
+AI Governance & Security Toolkit: Built an Excel-based AI GRC and security portfolio project that includes a sector compliance checklist, AI impact assessment template, evidence tracker, executive brief, README documentation, and screenshots. The project demonstrates practical skills in responsible AI review workflows, privacy/security assessment, human oversight, evidence tracking, audit readiness, and compliance documentation.
